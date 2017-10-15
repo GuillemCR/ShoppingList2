@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirmació</string>
+    <string name="remove">Esborra</string>
+    <string name="removemsg">"Estàs segur de que vols esborrar "</string>
+</resources>

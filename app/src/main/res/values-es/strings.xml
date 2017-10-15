@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirmación</string>
+    <string name="remove">Elimina</string>
+    <string name="removemsg">"Estás seguro de que quieres elimina "</string>
+</resources>
