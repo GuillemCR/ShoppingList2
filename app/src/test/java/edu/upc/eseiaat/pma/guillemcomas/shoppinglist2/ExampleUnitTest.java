@@ -1,4 +1,4 @@
-package edu.upc.eseiaat.pma.guillemcomas.shoppinglist;
+package edu.upc.eseiaat.pma.guillemcomas.shoppinglist2;
 
 import org.junit.Test;
 
